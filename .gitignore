@@ -1,0 +1,10 @@
+obj
+bin
+.vs
+*.user
+/GBFront.v12.suo
+/GBFront-VS2017.v12.suo
+/ReleaseFiles/Common
+/ReleaseFiles/ExcuteDuty
+/ReleaseFiles/MeetingLive
+/packages/cef.redist.x64.73.1.13/CEF
